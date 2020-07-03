@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20159" started-at="2020-07-02T17:18:46 CDT" finished-at="2020-07-02T17:19:06 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20159" started-at="2020-07-02T17:18:46 CDT" finished-at="2020-07-02T17:19:06 CDT">
+      <class name="test.AddCategoryTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.AddCategoryTest@63e2203c]" name="init" is-config="true" duration-ms="4651" started-at="2020-07-02T17:18:46 CDT" finished-at="2020-07-02T17:18:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="UnableToAddDoubleItem()[pri:1, instance:test.AddCategoryTest@63e2203c]" name="UnableToAddDoubleItem" duration-ms="8230" started-at="2020-07-02T17:18:51 CDT" finished-at="2020-07-02T17:18:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnableToAddDoubleItem -->
+        <test-method status="PASS" signature="validateMonthDropDownBox()[pri:2, instance:test.AddCategoryTest@63e2203c]" name="validateMonthDropDownBox" duration-ms="6586" started-at="2020-07-02T17:18:59 CDT" finished-at="2020-07-02T17:19:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMonthDropDownBox -->
+        <test-method status="PASS" signature="closing()[pri:0, instance:test.AddCategoryTest@63e2203c]" name="closing" is-config="true" duration-ms="652" started-at="2020-07-02T17:19:06 CDT" finished-at="2020-07-02T17:19:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- test.AddCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
